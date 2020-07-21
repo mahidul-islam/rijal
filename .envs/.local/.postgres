@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=arrijal
+POSTGRES_USER=ukPyOGMosrnCpqntLigLWhXqnfPqzkIl
+POSTGRES_PASSWORD=dDY6iPBVzSzuj4bwkf1bwriYPdUNllmv9uqbHHsLS5AkqYBwcvzLzLIfRoVbBFSH
